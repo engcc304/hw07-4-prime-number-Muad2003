@@ -59,6 +59,7 @@ int main() {
             printf( "%d ", input ) ;
         }
         input-- ;
+        
     } while ( input >= i ) ;
     
     return 0 ;
